@@ -5,6 +5,10 @@
     height: 100%;
 }
 
+h2{
+color: #3d7489;
+}
+
 .ac-container{
     width: 210px;
     margin: 20px auto 30px auto;
